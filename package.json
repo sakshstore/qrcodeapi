@@ -1,0 +1,22 @@
+{
+  "name": "qrcode_aistore",
+  "version": "1.0.0",
+  "description": "api for qr code",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susheel2335/qrcodeapi.git"
+  },
+  "keywords": [
+    "qrcode"
+  ],
+  "author": "susheelhbti",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/susheel2335/qrcodeapi/issues"
+  },
+  "homepage": "https://github.com/susheel2335/qrcodeapi#readme"
+}
